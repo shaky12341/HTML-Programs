@@ -1,0 +1,25 @@
+<!--This is a comment -->
+
+<!DOCTYPE html>
+<html>
+ <head>
+    <title> My Webpage Title</title>
+ </head>
+
+ <body>
+    <b> Used for Bold <br> </b>
+    
+    <strong> Used for Bold <br> </strong>
+    
+    <i> Used for Italic <br> </i>
+    
+    <em> Used for Italic <br> </em>
+    
+    <u> Used for Underline <br> </u>
+    
+    <small> Used to show some selected text small as compared to other text </small>
+    
+    
+ </body>
+    
+</html>
