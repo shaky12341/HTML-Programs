@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+	<html>
+		<head>
+			<title>
+				My Webpage Title
+			</title>
+		</head>
+		<body>
+		    <img src = "http://www.studytonight.com/css/resource/flat-ui-icon/startup-icon.png" />
+		</body>
+	</html>
