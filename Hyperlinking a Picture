@@ -1,0 +1,17 @@
+<!--This is a comment -->
+
+<!DOCTYPE html>
+<html>
+ <head>
+    <title> My Webpage Title</title>
+    
+ </head>
+
+ <body>
+     <p> Welcome to Google</p>
+    <a href = "https://www.google.com">
+        <img src = "http://www.studytonight.com/css/resource/flat-ui-icon/startup-icon.png" />
+    </a>
+ </body>
+    
+</html>
