@@ -1,0 +1,9 @@
+<!doctype html>
+<html>
+	<head>
+		<title>My Webpage Title</title>
+	</head>
+	<body>
+		<p style="color:green">First example of Style</p>
+	</body>
+</html>
