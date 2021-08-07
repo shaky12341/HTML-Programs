@@ -1,0 +1,27 @@
+<!doctype html>
+<html>
+	<head>
+		<title>My Webpage Title</title>
+	</head>
+	<body>
+	<ul>
+		<li>
+		    Apple
+		    <ul>
+		        <li>Green Apple</li>
+		        <li>Red Apple</li>
+		    </ul>
+		</li>
+		
+		<li>
+		    Banana
+		    <ul>
+		        <li>Green Banana</li>
+		        <li>Yellow Banana</li>
+		    </ul>
+		</li>
+		
+		<li>Tiger</li>
+	</ul>
+	</body>
+</html>
