@@ -4,6 +4,6 @@
 		<title>My Webpage Title</title>
 	</head>
 	<body>
-		<p style="color:green">First example of Style</p>
+		<p style="property:value">First example of Style</p>
 	</body>
 </html>
