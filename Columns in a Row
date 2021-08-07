@@ -1,0 +1,29 @@
+<!doctype html>
+<html>
+	<head>
+		<title>My Webpage Title</title>
+	</head>
+	<body>
+		<table border="1">
+
+			<tr>
+				<td>Name</td>
+				<td>Course</td>
+				<td>UID</td>
+			</tr>
+        
+			<tr>
+				<td>Aman</td>
+				<td>MCA</td>
+				<td>20MCA1436</td>
+			</tr>
+
+			<tr>
+			    <td>Addaa</td>
+				<td>MCA</td>
+				<td>20MCA0000</td>
+			</tr>
+
+		</table>
+	</body>
+</html>
