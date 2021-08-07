@@ -1,0 +1,10 @@
+<!doctype html>
+<html>
+	<head>
+		<title>My Webpage Title</title>
+	</head>
+	<body>
+		<p style="text-align:CENTER">Do you know?</p>
+		<p style="text-align:RIGHT">Tim Berners-Lee coined the phrase 'World Wide Web' in 1990.</p>
+	</body>
+</html>
