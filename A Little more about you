@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>My Web Protifolio</title>
+    </head>
+
+    <body>
+        <p style="text-align:center">
+            <img src="https://i.pinimg.com/originals/54/e4/22/54e422b7e74533e028f679f45270978c.jpg"/>
+        </p> 
+        <h1 style="text-align:center;
+                  font-family:Carlito;
+                  font :26 px;
+                  color:maroon">
+            Astha Kumari
+        </h1>
+        
+        <p style="text-align:center">
+            <small>Small Tagline About You</small>
+        </p>
+        
+        <hr>
+        
+        <h2> 
+        <u>About Me</u>
+        </h2>
+        
+        <p>
+            I am _________________
+        </p>
+    
+    </body>
+  </html>
