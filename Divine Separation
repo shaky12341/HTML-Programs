@@ -1,0 +1,14 @@
+<!doctype html>
+<html>
+	<head>
+		<title>My Webpage Title</title>
+	</head>
+
+	<body>
+		I like Dogs.
+		<div style="background-color:Yellow">
+		    Hii everyone
+		</div>		
+		
+	</body>
+</html>
