@@ -6,141 +6,63 @@
     </head>
 
     <body>
-        <img src=""/>
-
-        <h1 style="text-align:left;
+        <p style="text-align:center">
+            <img src="https://i.pinimg.com/originals/54/e4/22/54e422b7e74533e028f679f45270978c.jpg"/>
+        </p> 
+        <h1 style="text-align:center;
                   font-family:Carlito;
                   font :26 px;
                   color:maroon">
             Astha Kumari
         </h1>
         
-        <p1 style="text-align:left;
-                  font-family: carlito;
-                  font-size:18px">
-            <b>
-                Address: 
-               <br>
-               E-mail: 
-               <a href="mailto:">
-                
-               </a>
-               <br>
-               Phone: 
-               <br>
-               LinkedIn:
-                <a href="https://linkedin.com/in/astha-kumari-51a608206">
-                    linkedin.com/in/astha-kumari-51a608206
-                </a>
-                <br>
-               GitHub: 
-                <a href="  https://github.com/shaky12341">
-                    https://github.com/shaky12341
-                </a>
-                <br>
-            </b>
-            <hr style="border-width:2px;
-                       border-color: black;">
-            <br>
-        </p1>
-
-        <h2 style="text-align:left;
-                   font-family: carlito;
-                   font-size:20px;
-                   color:maroon">
-                <u>PROFESSIONAL SUMMARY</u>
-            <br>
-        </p2>
-
-        <p2 style="text-align:left;
-                   font-family: carlito;
-                   font-size:18px;
-                   color:black">
-            <br>
-                
-        </p2>
-       
-        <h3 style="text-align:left;
-                   font-family: carlito;
-                   font-size:20px;
-                   color:maroon">
-                <u>KEY COMPETENCIES</u>
-        </h3>
-
-        <p3 style="text-align:left;
-                   font-family: carlito;
-                   font-size:18px;">
-            <ul>
-                <li><b></b></li>
-                <li><b></b></li>
-            </ul>
-        </p3>
-
-        <h4 style="text-align:left;
-                   font-family: carlito;
-                   font-size:20px;
-                   color:maroon">
-                <u>EDUCATION</u>
-        </h4>
-
-        <table border="2px">
-            <thead>
-                <th>Session</th>
-                <th>Qualification</th>
-                <th>School/College</th>
-                <th>Percentage/CGPA</th>
-            </thead>
-
-            <tbody>
-                <tr>
-                    <td>
-                        
-                    </td>
-
-                    <td>
-                        
-                    </td>
-
-                    <td>
-                        
-                    </td>
-
-                    <td>
-                        
-                    </td>
-                </tr>
-            </tbody>
-        </table>
-
-        <h5 style="text-align:left;
-                   font-family: carlito;
-                   font-size:20px;
-                   color:maroon">
-                <u>WORK EXPERIENCE</u>
-        </h5>
-
-        <p4 style="text-align:left;
-                   font-family: carlito;
-                   font-size:18px;">
-            <ul>
-                <li><b>Fresher</b></li>
-            </ul>
-        </p4>
-
-        <h6 style="text-align:left;
-                   font-family: carlito;
-                   font-size:20px;
-                   color:maroon">
-                <u>TECHNICAL SKILLS</u>
-        </h6>
+        <p style="text-align:center">
+            <small>Small Tagline About You</small>
+        </p>
         
-        <p5 style="text-align:left;
-                   font-family: carlito;
-                   font-size:18px;">
-            <ul>
-                <li><b>LANGUAGE – </b>C</li>
+        <hr>
+        
+        <h2> 
+        <u>About Me</u>
+        </h2>
+        
+        <p>
+            I am _________________
+        </p>
+     
+        <h2> 
+        <u>Hobbies</u>
+        </h2>
+        
+        <ul>
+            <li>Coding</li>
+            <li>Watching Movies</li>
+        </ul>
+        
+        <h3> 
+        <u>Qualification</u>
+        </h3>
+        
+        <table border="1">
+            <tr>
+                <th>
+                    Class
+                </th>
                 
-            </ul>
-        </p5>
+                <th>
+                    Marks
+                </th>
+            </tr>
+            
+            <tr>
+                <td>
+                    Night School
+                </td>
+                
+                <td>
+                    50%
+                </td>
+            </tr>
+        </table>
     </body>
-</html>
+  </html>
