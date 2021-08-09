@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+ <head>
+	<title>HTML tags</title>
+ </head>
+ <body>
+	<p>This is a Normal Text</p>
+	 <code>
+	     This could be code
+	 </code>
+ </body>
+</html>
