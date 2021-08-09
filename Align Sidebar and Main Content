@@ -1,0 +1,25 @@
+<!Doctype html>
+
+<html>
+    <head>
+        <title>Example of HTML Page Structure</title>
+    </head>
+    <body>
+        <!--Header-->
+        <div style="background-color:Orange">
+            <h1>Heading</h1>
+            <p>Paragraph</p>
+            
+        </div>
+        
+        <div>
+            <div style="width:25%;float:left">
+                Sidebar
+            </div>
+            
+            <div style="width:75%">
+                Main
+            </div>
+        </div>
+    </body>
+</html>
