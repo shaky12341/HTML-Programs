@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>HTML tags</title>
+</head>
+<body>
+	<p>The Square of a number X is calculated as: x<sup>2</sup></p>
+</body>
+</html>
