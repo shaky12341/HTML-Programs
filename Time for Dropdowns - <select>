@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+	<html>
+		<head>
+			<title>
+				My Webpage Title
+			</title>
+		</head>
+		<body>
+			<form>
+                <select>
+                    <option>Apple</option>
+                    <option>Mango</option>
+                    <option>Banana</option>
+                    <option>Guava</option>
+                </select>
+			</form>
+		</body>
+	</html>
