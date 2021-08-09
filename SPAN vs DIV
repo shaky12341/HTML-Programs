@@ -1,0 +1,15 @@
+<!doctype html>
+<html>
+	<head>
+		<title>My Webpage Title</title>
+	</head>
+
+	<body>
+	<span style="background-color:red">I like Cats.</span>
+	
+	<div style="background-color:yellow">
+	    
+	</div>
+		
+	</body>
+</html>
