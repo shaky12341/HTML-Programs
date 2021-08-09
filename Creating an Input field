@@ -1,0 +1,12 @@
+<!Doctype html>
+
+<html>
+    <head>
+        <title>My Web page</title>
+    </head>
+    <body>
+        <form>
+            <label>Email</label>
+            <input type="email" name="email"/>
+        </form>
+    </body>
