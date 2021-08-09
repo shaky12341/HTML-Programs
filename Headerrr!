@@ -1,0 +1,14 @@
+<!Doctype html>
+
+<html>
+    <head>
+        <title>Example of HTML Page Structure</title>
+    </head>
+    <body>
+        <!--Header-->
+        <div style="background-color:Orange">
+            <h1>Heading</h1>
+            <p>Paragraph</p>
+        </div>
+    </body>
+</html>
