@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+	<head>
+		<title>
+			Login Form
+		</title>
+	</head>
+	<body>
+		<input type="checkbox" name="todo">
+		<label>Do Yoga</label>
+	</body>
+</html>
