@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>iframe tag</title>
+</head>
+<body>
+	<h1>Welcome</h1>
+	<!-- Add iframe here -->
+	<iframe src="https://www.google.com">
+	    
+	</iframe>
+</body>
+</html>
