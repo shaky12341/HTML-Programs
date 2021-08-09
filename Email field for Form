@@ -1,0 +1,16 @@
+<!Doctype html>
+
+<html>
+    <head>
+        <title>MY Login Form</title>
+    </head>
+    <body>
+        <h1>Login Form</h1>
+        <form>
+            <div>
+                <label>Email</label>
+                <input type="email" name="email"/>
+            </div>
+        </form>
+    </body>
+</html>
