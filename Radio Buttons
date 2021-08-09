@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+	<html>
+		<head>
+			<title>
+				My Webpage Title
+			</title>
+		</head>
+		<body>
+			<form>
+                <input type="radio" name="time" value="day"/>
+                <label>Day</label>
+                <input type="radio" name="time" value="night"/>
+                <label>Night</label>
+			</form>
+		</body>
+	</html>
