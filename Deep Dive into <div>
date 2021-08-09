@@ -1,0 +1,20 @@
+<!doctype html>
+<html>
+	<head>
+		<title>My Webpage Title</title>
+	</head>
+
+	<body>
+		<div style = "background-color:PINK">
+			<h1>LOL</h1>
+			<p>Laugh Out Loud</p>
+		</div>
+		
+		<div style="background-color:orange">
+		    <h2>OMG</h2>
+		    <div style="background-color:yellow">
+		        Oh My God
+		    </div>
+		</div>
+	</body>
+</html>
