@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+	<html>
+		<head>
+			<title>
+				My Webpage Title
+			</title>
+		</head>
+		<body>
+			<form>
+                <input type="checkbox" name="lang" value="english"/>
+                <label>English</label>
+                <input type="checkbox" name="lang" value="hindi"/>
+                <label>Hindi</label>
+			</form>
+		</body>
+	</html>
